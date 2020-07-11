@@ -1,17 +1,18 @@
 下载链接：
 
 ```shell
-wget https://github.com/wf09/besttrace/raw/master/besttrace4linux/besttrace chmod+x besttrace
+wget https://github.com/wf09/besttrace/raw/master/besttrace4linux/besttrace 
+chmod +x besttrace
 ```
 
 ```shell
 wget https://github.fly97.workers.dev/wf09/besttrace/raw/master/besttrace4linux/besttrace 
-chmod+x besttrace
+chmod +x besttrace
 ```
 
 ```shell
 wget https://cdn.jsdelivr.net/gh/wf09/besttrace/besttrace4linux/besttrace
-chmod+x besttrace
+chmod +x besttrace
 ```
 
 用法
